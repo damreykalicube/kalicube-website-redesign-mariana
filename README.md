@@ -6,10 +6,19 @@ This is a copy of the Kalicube redesign drafts, made on 15 September 2026 so Mar
 - Changes made to the main drafts after 15 September 2026 don't arrive here either.
 - Every page is noindexed.
 
+## Where this copy lives now
+
+As of 17 September 2026, this copy is hosted at **github.com/damreykalicube/kalicube-website-redesign-mariana** (private, on Damrey's personal account) instead of the Kalicube-Tech org repo. This was to work around a GitHub App permissions issue on the org side that was blocking pushes.
+
+- Clone/push URL: `https://github.com/damreykalicube/kalicube-website-redesign-mariana.git`
+- If you don't have access yet, ask Damrey to add you as a collaborator under **Settings → Collaborators and teams**.
+
 ## See it
 
 - Font Flip: https://kalicube-tech.github.io/kalicube-website-redesign-mariana/font-flip/?page=home
 - One page on its own: add `?raw` to its address, for example https://kalicube-tech.github.io/kalicube-website-redesign-mariana/index-ubuntu.html?raw
+
+> **Note:** the links above are GitHub Pages for the original org repo. Since this copy now lives in a private personal repo, GitHub Pages won't serve it the same way — the live-preview links above will keep showing whatever was last pushed to the org repo, not new edits made here. Ask Damrey if you need a working preview link for this copy.
 
 ## Edit it
 
